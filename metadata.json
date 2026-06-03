@@ -1,0 +1,6 @@
+{
+  "name": "ReportHub",
+  "description": "An interactive web platform for internship report submissions, featuring role-based dashboards, a PHP MVC code generator, database ERD, Swagger API playground, and unit test runner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
